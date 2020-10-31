@@ -1,4 +1,4 @@
-# SyncStorage
+# SyncStorage Fork, changed stuff to make it work with typescript
 
 Synchronous storage for
 [React Native AsyncStorage](https://facebook.github.io/react-native/docs/asyncstorage.html).
